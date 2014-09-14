@@ -22,7 +22,6 @@
 		9513D5A719BDFF56001E0F0A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9513D5A519BDFF56001E0F0A /* InfoPlist.strings */; };
 		9513D5A919BDFF56001E0F0A /* CineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9513D5A819BDFF56001E0F0A /* CineTests.m */; };
 		9513D5B319BE0282001E0F0A /* imagen1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9513D5B219BE0282001E0F0A /* imagen1.jpg */; };
-		9514D32519C33C67004EB4B6 /* ViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 9514D32419C33C67004EB4B6 /* ViewController4.m */; };
 		952003B219C0A9600058D22F /* p1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 952003B119C0A9600058D22F /* p1.jpg */; };
 		952003B419C0A9A20058D22F /* p2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 952003B319C0A9A20058D22F /* p2.jpg */; };
 		952003B619C0A9D30058D22F /* p3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 952003B519C0A9D30058D22F /* p3.jpg */; };
@@ -33,6 +32,14 @@
 		952003C019C0ABE20058D22F /* p8.png in Resources */ = {isa = PBXBuildFile; fileRef = 952003BF19C0ABE20058D22F /* p8.png */; };
 		952003C419C0AE5F0058D22F /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 952003C319C0AE5F0058D22F /* ViewController2.m */; };
 		952003C819C0AEA20058D22F /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 952003C719C0AEA20058D22F /* ViewController3.m */; };
+		CC4DB88919C608400057BC3B /* Doc5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC4DB88519C608400057BC3B /* Doc5.pdf */; };
+		CC4DB88A19C608400057BC3B /* Doc6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC4DB88619C608400057BC3B /* Doc6.pdf */; };
+		CC4DB88B19C608400057BC3B /* Doc7.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC4DB88719C608400057BC3B /* Doc7.pdf */; };
+		CC4DB88C19C608400057BC3B /* Doc8.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC4DB88819C608400057BC3B /* Doc8.pdf */; };
+		CC7409C719C5FE7500B23937 /* Doc1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC7409C619C5FE7500B23937 /* Doc1.pdf */; };
+		CC7409CB19C602D300B23937 /* Doc3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC7409C819C602D300B23937 /* Doc3.pdf */; };
+		CC7409CC19C602D300B23937 /* Doc2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC7409C919C602D300B23937 /* Doc2.pdf */; };
+		CC7409CD19C602D300B23937 /* Doc4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CC7409CA19C602D300B23937 /* Doc4.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,8 +73,6 @@
 		9513D5A619BDFF56001E0F0A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9513D5A819BDFF56001E0F0A /* CineTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CineTests.m; sourceTree = "<group>"; };
 		9513D5B219BE0282001E0F0A /* imagen1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = imagen1.jpg; sourceTree = "<group>"; };
-		9514D32319C33C67004EB4B6 /* ViewController4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController4.h; sourceTree = "<group>"; };
-		9514D32419C33C67004EB4B6 /* ViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController4.m; sourceTree = "<group>"; };
 		952003B119C0A9600058D22F /* p1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p1.jpg; sourceTree = "<group>"; };
 		952003B319C0A9A20058D22F /* p2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p2.jpg; sourceTree = "<group>"; };
 		952003B519C0A9D30058D22F /* p3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p3.jpg; sourceTree = "<group>"; };
@@ -80,6 +85,14 @@
 		952003C319C0AE5F0058D22F /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 		952003C619C0AEA20058D22F /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
 		952003C719C0AEA20058D22F /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
+		CC4DB88519C608400057BC3B /* Doc5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc5.pdf; path = ../../Downloads/Doc5.pdf; sourceTree = "<group>"; };
+		CC4DB88619C608400057BC3B /* Doc6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc6.pdf; path = ../../Downloads/Doc6.pdf; sourceTree = "<group>"; };
+		CC4DB88719C608400057BC3B /* Doc7.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc7.pdf; path = ../../Downloads/Doc7.pdf; sourceTree = "<group>"; };
+		CC4DB88819C608400057BC3B /* Doc8.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc8.pdf; path = ../../Downloads/Doc8.pdf; sourceTree = "<group>"; };
+		CC7409C619C5FE7500B23937 /* Doc1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc1.pdf; path = ../../Downloads/Doc1.pdf; sourceTree = "<group>"; };
+		CC7409C819C602D300B23937 /* Doc3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc3.pdf; path = ../../Downloads/Doc3.pdf; sourceTree = "<group>"; };
+		CC7409C919C602D300B23937 /* Doc2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc2.pdf; path = ../../Downloads/Doc2.pdf; sourceTree = "<group>"; };
+		CC7409CA19C602D300B23937 /* Doc4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Doc4.pdf; path = ../../Downloads/Doc4.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +122,7 @@
 		9513D57119BDFF56001E0F0A = {
 			isa = PBXGroup;
 			children = (
+				CC7409CE19C602E600B23937 /* Archivos */,
 				952003C519C0AE6F0058D22F /* Controladores */,
 				952003C119C0AE2C0058D22F /* Imagenes */,
 				9513D58319BDFF56001E0F0A /* Cine */,
@@ -198,16 +212,29 @@
 		952003C519C0AE6F0058D22F /* Controladores */ = {
 			isa = PBXGroup;
 			children = (
-				952003C219C0AE5F0058D22F /* ViewController2.h */,
-				952003C319C0AE5F0058D22F /* ViewController2.m */,
 				9513D59219BDFF56001E0F0A /* ViewController.h */,
 				9513D59319BDFF56001E0F0A /* ViewController.m */,
+				952003C219C0AE5F0058D22F /* ViewController2.h */,
+				952003C319C0AE5F0058D22F /* ViewController2.m */,
 				952003C619C0AEA20058D22F /* ViewController3.h */,
 				952003C719C0AEA20058D22F /* ViewController3.m */,
-				9514D32319C33C67004EB4B6 /* ViewController4.h */,
-				9514D32419C33C67004EB4B6 /* ViewController4.m */,
 			);
 			name = Controladores;
+			sourceTree = "<group>";
+		};
+		CC7409CE19C602E600B23937 /* Archivos */ = {
+			isa = PBXGroup;
+			children = (
+				CC4DB88519C608400057BC3B /* Doc5.pdf */,
+				CC4DB88619C608400057BC3B /* Doc6.pdf */,
+				CC4DB88719C608400057BC3B /* Doc7.pdf */,
+				CC4DB88819C608400057BC3B /* Doc8.pdf */,
+				CC7409C819C602D300B23937 /* Doc3.pdf */,
+				CC7409C919C602D300B23937 /* Doc2.pdf */,
+				CC7409CA19C602D300B23937 /* Doc4.pdf */,
+				CC7409C619C5FE7500B23937 /* Doc1.pdf */,
+			);
+			name = Archivos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,18 +313,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC7409CB19C602D300B23937 /* Doc3.pdf in Resources */,
 				9513D59619BDFF56001E0F0A /* Images.xcassets in Resources */,
 				952003B819C0AA060058D22F /* p4.jpg in Resources */,
 				9513D58819BDFF56001E0F0A /* InfoPlist.strings in Resources */,
+				CC7409C719C5FE7500B23937 /* Doc1.pdf in Resources */,
 				9513D59119BDFF56001E0F0A /* Main.storyboard in Resources */,
+				CC4DB88A19C608400057BC3B /* Doc6.pdf in Resources */,
+				CC4DB88B19C608400057BC3B /* Doc7.pdf in Resources */,
 				952003B419C0A9A20058D22F /* p2.jpg in Resources */,
 				952003BC19C0AAFD0058D22F /* p6.png in Resources */,
+				CC4DB88C19C608400057BC3B /* Doc8.pdf in Resources */,
+				CC7409CC19C602D300B23937 /* Doc2.pdf in Resources */,
 				952003B219C0A9600058D22F /* p1.jpg in Resources */,
 				952003BE19C0AB9A0058D22F /* p7.jpg in Resources */,
 				9513D5B319BE0282001E0F0A /* imagen1.jpg in Resources */,
+				CC4DB88919C608400057BC3B /* Doc5.pdf in Resources */,
 				952003C019C0ABE20058D22F /* p8.png in Resources */,
 				952003B619C0A9D30058D22F /* p3.jpg in Resources */,
 				952003BA19C0AA390058D22F /* p5.jpg in Resources */,
+				CC7409CD19C602D300B23937 /* Doc4.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,7 +356,6 @@
 				9513D58E19BDFF56001E0F0A /* AppDelegate.m in Sources */,
 				9513D58A19BDFF56001E0F0A /* main.m in Sources */,
 				952003C819C0AEA20058D22F /* ViewController3.m in Sources */,
-				9514D32519C33C67004EB4B6 /* ViewController4.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

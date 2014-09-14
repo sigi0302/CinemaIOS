@@ -3,7 +3,7 @@
 //  Cine
 //
 //  Created by Estudiante on 8/09/14.
-//  Copyright (c) 2014 Laura Gutiérrez. All rights reserved.
+//  Copyright (c) 2014 Sigi Alzate, Sebastian Palacio, David Ossa. All rights reserved.
 //
 
 #import "AppDelegate.h"

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>499D879D-71B7-4218-AF96-5EA1FD902C68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>244312F0-B8B1-429E-A52C-16EC51C51FB1</key>
+		<string>https://github.com/sigi0302/CinemaIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cine/Cine.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>244312F0-B8B1-429E-A52C-16EC51C51FB1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sigi0302/CinemaIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>244312F0-B8B1-429E-A52C-16EC51C51FB1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>244312F0-B8B1-429E-A52C-16EC51C51FB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CinemaIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
